@@ -13,7 +13,7 @@
 5. A new database should be created and name as 'railwaydb'.
 6. There should be three tables in 'railwaydb' database and name them as-> 'user','train' and 'chart'.
 7. The fields of 'user' table will be uname(string),pass(string),age(int),g(string)(for gender),timestamp(timestamp).
-8. The fields of 'train' table will be tnum(int), tname(string), seats(int), bp(string), dp(string), fAC(int), sAC(int), tAC(int), sc(int), doj(date), dtime(string), atime(string).
+8. The fields of 'train' table will be tnum(int), tname(string), seats(int), bp(string), dp(string), fAC(int), sAC(int), tAC(int), sc(int), doj(date), dtime(string)(departure-time), atime(string)(arrival-time).
 9. The fields of 'chart' table will be sno(int), pnr(int), name(string), age(int), g(string)(for gender), seatno(int), coach(string), status(string), timestamp(timestamp), dot(date), tnum(int).
 
  **The program will be execute through Reservation_sys named file as it contains the main method.**
