@@ -1,5 +1,5 @@
-# oibsip_task1
-**This is a Java project on Online Reservation System for Oasis Infobyte internship.**
+# oibsip_task1--> Railway Reservation System
+**This is a Java project on Railway Reservation System for Oasis Infobyte internship.**
 **It is based on MySQL for the purpose of database which can be accessed by any authorised person to retrieve information and also helps customers for easy use of platform.**
 
 ***The following shows the steps to run this application:***
